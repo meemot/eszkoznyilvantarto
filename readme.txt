@@ -12,11 +12,11 @@ Indítás és bejelentkezés
 1. Adatbázis importálása szükséges
 2. WampServer vagy más, ezzel egyenértékű helyi webszerver elindítása szükséges.
 3. Indítás előtt a letöltött mappát a helyi szerver megfelelő könyvtárába kell másolni.
-3. Nyisd meg a böngészőt és keresd fel a
+4. Nyisd meg a böngészőt és keresd fel a
 
 	http://localhost/vizsgamunka/p_index.php címet.
 
-4. A kezdőoldalon a bejelentkezési felület fogadja a felhasználót.
+5. A kezdőoldalon a bejelentkezési felület fogadja a felhasználót.
 
 Teszt bejelentkezési adatok adminisztrátorként:
 
